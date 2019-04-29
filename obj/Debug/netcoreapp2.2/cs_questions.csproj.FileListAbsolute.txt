@@ -1,0 +1,11 @@
+D:\Trampolene Stuff\cs_questions\bin\Debug\netcoreapp2.2\cs_questions.deps.json
+D:\Trampolene Stuff\cs_questions\bin\Debug\netcoreapp2.2\cs_questions.runtimeconfig.json
+D:\Trampolene Stuff\cs_questions\bin\Debug\netcoreapp2.2\cs_questions.runtimeconfig.dev.json
+D:\Trampolene Stuff\cs_questions\bin\Debug\netcoreapp2.2\cs_questions.dll
+D:\Trampolene Stuff\cs_questions\bin\Debug\netcoreapp2.2\cs_questions.pdb
+D:\Trampolene Stuff\cs_questions\obj\Debug\netcoreapp2.2\cs_questions.csprojAssemblyReference.cache
+D:\Trampolene Stuff\cs_questions\obj\Debug\netcoreapp2.2\cs_questions.csproj.CoreCompileInputs.cache
+D:\Trampolene Stuff\cs_questions\obj\Debug\netcoreapp2.2\cs_questions.AssemblyInfoInputs.cache
+D:\Trampolene Stuff\cs_questions\obj\Debug\netcoreapp2.2\cs_questions.AssemblyInfo.cs
+D:\Trampolene Stuff\cs_questions\obj\Debug\netcoreapp2.2\cs_questions.dll
+D:\Trampolene Stuff\cs_questions\obj\Debug\netcoreapp2.2\cs_questions.pdb
